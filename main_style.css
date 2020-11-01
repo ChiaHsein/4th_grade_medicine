@@ -1,0 +1,21 @@
+body{
+	background-color:	#CCEEFF;
+}
+
+#result{
+	text-align:center;
+	background-color:white;
+	width:100%;
+	
+}
+
+#result th{
+	background-color:#0066FF;
+	color:white;
+}
+
+#result tr{
+	height:50px;
+}
+
+ 

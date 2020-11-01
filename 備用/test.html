@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
+		<link rel="stylesheet" href="//ku.shouce.ren/libs/layer/js/skin/layer.css" media="all">
+		<script type="text/javascript" src="//apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js">
+		</script>
+		<script src="//ku.shouce.ren/libs/layer/js/layer.js">
+		</script>
+		<script>
+			function test(code){
+				//在这里面输入任何合法的js语句
+				 $.post('search_pic.php',{pic:code},function(data){ 
+				//alert(data);
+				
+				layer.open({
+					type: 1,
+					area: ['300px', '300px'],
+					offset: ['100px', '600px'], 
+					title: false,
+					closeBtn: 0,
+					shadeClose: true,
+					content:  '<img src='+data+'/>'
+				});
+			});
+			}
+		</script>
+	</head>
+	<body>
+		<table>
+		<tr onclick=test('ROALPRA');>
+			<td>???</td>
+		</tr>
+		</table>
+		
+	</body>
+</html>

@@ -1,0 +1,49 @@
+項次,院內代碼,藥品品項,院內代碼,廠商,管制藥品登記證號,製造廠,藥品許可證號
+1,ROALPRA,Alpragin (alprazolam 2mg/tab),ROALPRA,寶齡富錦,DFP08800001208,寶齡富錦,衛署藥製字第047961號
+2,ROALP01,Alprazolam (Alprazolam 0.5 mg/tab),ROALP01,中化裕民健康事業,ADP09200001602,中化裕民委託中國化學製藥,衛署藥製字第057740號
+3,RI0A201,Anxicam (Lorazepam 2mg/1mL/amp),RI0A201,康僑,HDP10500000101,瑞士,衛署藥製字第039626號
+4,RO0A213,Apano (Miferpristone 200mg/tab),RO0A213,美時,ADP09000001705,美時,衛署藥製字第044476號
+5,ROAPOZO,(DC) Apo-zopiclone (Zopiclone 7.5mg/tab),ROAPOZO,康僑,HDP105000001,APOTEX INC.,衛署藥輸字第024626號
+6,ROCAMAD,Camadol(Tramadol 50mg/cap),ROCAMAD,屆興,HDP09100000303,明澤實業委託歐帕,衛署藥製字第043597號
+7,RI0CITO,Citosol (Thiamylal 300mg/amp),RI0CITO,立統行,ADP100000001,杏林新生,衛署藥製字第043763號
+8,ROCLONO,Clonopam (Clonazepam 0.5mg/tab),ROCLONO,貫群,ADP09400000202,景德製藥,衛署藥製字第045342號
+9,ROCOD01,Codin P Syrup (Codeine 28.8mg/60mL/bot),ROCOD01,偉晟,ADP09000000202,杏輝,衛署藥製字第021678號
+10,RODALMA,(DC) Dalmadorm (Flurazepam 30mg/cap),RODALMA,東竹,ADP08900014103,歐帕生技醫藥,衛署藥製字第036677號
+11,RIDIAZE,(DC) Diazepam (Diazepam 10mg/2mL/amp),RIDIAZE,艾伯林,HDA104000001,中化裕民,衛署藥製字第057788號
+12,RODIAZE,Diazepam (Diazepam 2mg/tab),RODIAZE,永信,HFP101000001,永信,衛署藥製字第030507號
+13,RIDIPRO,(DC) DiProfen 1% 20ML (Propofol 200mg/20mL/bot),RIDIPRO,東洲,#N/A,東洲,衛署藥製字第046490號
+14,RI0D327,Dormicum (Midazolam 5mg/1mL/amp),RI0D327,羅氏,ADP10100000503,羅氏,衛署藥輸字第019457號
+15,RIDUPIN,Dupin (Diazepam 10mg/2mL/amp),RIDUPIN,艾伯林,HDA104000001,中國化學,衛署藥製字第027850號
+16,RO0E410,Eszo (Estazolam 2mg/tab),RO0E410,康僑,HDP10500000101,信東,衛署藥製字第042646號
+17,ROFLUPI,Flupine (Fludiazepam 0.25mg/tab),ROFLUPI,加拿安,ADP089000048,強生化學,衛署藥製字第041519號
+18,ROFRISI,Frisium (Clobazam 10mg/tab),ROFRISI,文德藥業,ADP089000025,Handok,衛署藥輸字第023071號
+19,RO0G408,Genclone (Zopiclone 7.5mg/tab),RO0G408,健亞生技,FFP08900001505,健亞生技,衛署藥製字第043460號
+20,RO0I313,Imovane (Zopiclone 7.5mg/tab),RO0I313,大昌華嘉,ADP09400000703,Aventis,衛署藥輸字第018158號
+21,RO0K407,(DC) Kinax (Alprazolam 0.5 mg/tab),RO0K407,展榕,ADP10100000402,景德製藥,衛署藥製字第042686號
+22,RO0K408,Kinax 1mg(Alprazolam 1mg/tab),RO0K408,展榕,ADP10100000402,景德製藥,衛署藥製字第041465號
+23,RO0L312,Lendormin (Brotizolam 0.25mg/tab),RO0L312,吉程,ADP08900003005,台灣百靈佳殷格翰,衛署藥輸字第025713號
+24,ROLOWEN,Lowen (Lorazepam 0.5mg/tab),ROLOWEN,衛達康,HDP09300000601,中國化學製藥股份有限公司,衛署藥製字第027849號
+25,RIMIDAI,(DC) Midatin (Midazolam 5mg/1mL/amp),RIMIDAI,南光,PFP08900051001,南光,衛署藥製字第046247號
+26,ROMUACT,(DC) Muaction S.R (Tramadol 100mg/tab),ROMUACT,美時,ADP09000001704,美時,衛署藥製字第042770號
+27,RONARGI,(DC) Nargin (Nordazepam 5mg/tab),RONARGI,萬宇康,ADP095000008,十全實業,衛署藥製字第055108號
+28,RIOMIDA,(DC) Omida (Midazolam 5mg/1mL/amp),RIOMIDA,正昌容,CDP10000000201,杏林新生,衛署藥製字第049275號
+29,ROOPI01,"(DC) Opicet F.C. (Tramadol 37.5mg, Acetaminophen 325mg/tab)",ROOPI01,歐美,ADP092000003,五洲,衛署藥製字第058168號
+30,RIPROPL,Propofol-Lipuro (四級) ★INJ. 1% 20mL,RIPROPL,大昌華嘉,ADP09400000703,B. Braun(藥商：台灣柏朗),衛部藥輸字第026185號
+31,RIPRO01,(DC) Propofol-Lipuro 1% (Propofol 200mg/20mL/bot),RIPRO01,貫群,ADP09400000202,B. Braun(藥商：台灣柏朗),衛署藥輸字第024081號
+32,RO0R308,Rivotril (Clonazepam 2mg/tab),RO0R308,羅氏,ADP10100000503,羅氏,衛署藥輸字第003078號
+33,ROSELAR,(DC) Selars (oxazepam 30mg/tab),ROSELAR,蒼達,ODP091000001,應元藥廠,衛署藥製字第046746號
+34,RO0S226,Semi-nax (Zolpidem 10mg/tab) ,RO0S226,鼎豐宇,QDP08900001703,南光,衛署藥製字第044463號
+35,ROSON01,Sonaplon (Zaleplon 10mg/cap),ROSON01,鼎豐宇,QDP08900001703,強生化學,衛署藥製字第049423號
+36,ROSTILN,Stilnox CR (Zolpidem 6.25mg/tab),ROSTILN,大昌華嘉,ADP09400000703,Sanofi Winthrop(藥商：台灣安斯泰來),衛署藥輸字第024677號
+37,ROTRACE,"Traceton (Tramadol 37.5mg, Acetaminophen 325mg/tab)",ROTRACE,永信,HFP101000001,永信,衛署藥製字第056706號
+38,ROTRAMA,"(DC) Tramacet (Tramadol 37.5mg, Acetaminophen 325mg/tab)",ROTRAMA,德瑞,ADP100000008,五洲,衛署藥製字第057779號
+39,RITRAMT,Tramtor (Tramadol 100mg/2mL/amp),RITRAMT,美時,ADP09000001706,台灣派頓,衛署藥製字第038145號
+40,ROULTRA,"(DC) Ultracet (Tramadol 37.5mg, Acetaminophen 325mg/tab)",ROULTRA,久裕,CDP10300000801,Janssen Korea Ltd.,衛署藥輸字第023917號
+41,ROWINPA,"(DC) Winpain (Tramadol 37.5mg, Acetaminophen 325mg/tab)",ROWINPA,鴻佑藥品,CDP104000001,衛達化學,衛署藥製字第058188號
+42,ROWONTR,"Wontran ER (Tramadol 75mg, Acetaminophen 650mg/tab)",ROWONTR,寬敏實業,HDP09200000402,"Daewon Pham. Co., Ltd",衛署藥輸字第026598號
+43,ROZEPAN,(DC) Zepanc (clonazepam 2mg/tab),ROZEPAN,睿昶,GDP095000002,十全實業,衛署藥製字第048697號
+44,RO0Z208,Zolnox (Zolpidem 10mg/tab),RO0Z208,宜修,ADP08900012405,羅得,衛署藥製字第044605號
+45,ROZOPID,(DC) Zopidem (Zolpidem 10mg/tab),ROZOPID,健生,ODP102000001,生達化學製藥,衛署藥製字第044826號
+46,ROZOPIM,(DC) Zopim (Zolpidem 10mg/tab),ROZOPIM,生群,ADP09400001602,信東,衛署藥製字第045147號
+47,RO0K209,Kinzolam (Estazolam 2mg/tab),RO0K209,景泰,ADP089000184,中化,衛署藥製字第044029號
+48,ROAPOTR,"APO-Tramadol/Acet (Tramadol 37.5mg, Acetaminophen 325mg/tab)",ROAPOTR,天義,ADP08900008101,APOTEX INC.,衛署藥輸字第025452號
